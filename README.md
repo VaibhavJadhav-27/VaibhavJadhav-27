@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VaibhavJadhav-27
 - 🎓 I have completed my Bsc.Computer Science from Bhavans College
 - 👀 I’m interested in developing Desktop and Android Applications
-- 🌱 I’m currently learning Django and Flutter
+- 🌱 I’m currently self-learning Flutter
 - 📫 How to reach me on
    Instagram : @vaibhav_jadhav1827
    Twitter :   @jvaibhav_27
