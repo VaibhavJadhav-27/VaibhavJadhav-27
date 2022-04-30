@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VaibhavJadhav-27
-- 🎓 I have completed my Bsc.Computer Science from Bhavans College
+- 🎓 Currently pursuing Masters degree in Computer Applications from VJTI college
 - 👀 I’m interested in developing Desktop and Android Applications
 - 🌱 I’m currently self-learning Flutter
 - 📫 How to reach me on
