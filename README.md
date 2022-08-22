@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VaibhavJadhav-27
 - 🎓 Currently pursuing Masters degree in Computer Applications from VJTI college
 - 👀 I’m interested in developing Desktop and Android Applications
-- 🌱 I’m currently self-learning Flutter
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me on
    Instagram : @vaibhav_jadhav1827
    Twitter :   @jvaibhav_27
